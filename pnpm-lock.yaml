@@ -15,7 +15,7 @@ dependencies:
     specifier: 20.5.7
     version: 20.5.7
   '@vercel/postgres':
-    specifier: ^0.5.0
+    specifier: ^0.5.1
     version: 0.5.1
   autoprefixer:
     specifier: 10.4.15
@@ -27,7 +27,7 @@ dependencies:
     specifier: ^2.0.0
     version: 2.0.0
   next:
-    specifier: ^14.0.0
+    specifier: ^14.0.1
     version: 14.0.1(react-dom@18.2.0)(react@18.2.0)
   postcss:
     specifier: 8.4.31
@@ -45,12 +45,12 @@ dependencies:
     specifier: 5.2.2
     version: 5.2.2
   zod:
-    specifier: ^3.22.2
+    specifier: ^3.22.4
     version: 3.22.4
 
 devDependencies:
   '@types/bcrypt':
-    specifier: ^5.0.1
+    specifier: ^5.0.2
     version: 5.0.2
   '@types/react':
     specifier: 18.2.21
@@ -62,10 +62,10 @@ devDependencies:
     specifier: ^16.3.1
     version: 16.3.1
   eslint:
-    specifier: ^8.52.0
+    specifier: ^8.53.0
     version: 8.53.0
   eslint-config-next:
-    specifier: ^14.0.0
+    specifier: ^14.0.1
     version: 14.0.1(eslint@8.53.0)(typescript@5.2.2)
   prettier:
     specifier: ^3.0.3
