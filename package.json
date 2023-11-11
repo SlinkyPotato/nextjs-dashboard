@@ -6,7 +6,8 @@
     "start": "next start",
     "env:push": "dotenv-vault push",
     "env:pull": "dotenv-vault pull",
-    "db:setup": "node -r dotenv/config ./scripts/seed.js"
+    "db:setup": "node -r dotenv/config ./scripts/seed.js",
+    "lint": "next lint"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
